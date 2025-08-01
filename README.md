@@ -14,7 +14,7 @@ A fun and simple **terminal-based card game** in Python, inspired by the classic
 
 2. Run the Python file:
    ```bash
-   python Drop-it-Donkey.py
+   python Drop-It-Donkey.py
    ```
 
 > (Make sure Python 3 is installed)
